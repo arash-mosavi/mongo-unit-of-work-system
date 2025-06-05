@@ -21,7 +21,7 @@ A comprehensive Unit of Work pattern implementation for Go with MongoDB support,
 
 ### Prerequisites
 
-- Go 1.21 or later
+- Go 1.24 or later
 - MongoDB 4.4+ (for actual database operations)
 
 ### Install the SDK
@@ -802,4 +802,3 @@ if err != nil {
 - **Query Safety**: Parameterized queries to prevent injection attacks
 - **Role-based Access**: Support for MongoDB role-based access control
 
-# mongo-unit-of-work-system
