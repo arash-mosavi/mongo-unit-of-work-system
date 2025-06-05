@@ -1,9 +1,5 @@
 # MongoDB Unit of Work System
 
-[![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Go Report Card](https://goreportcard.com/badge/github.com/arash-mosavi/mongo-unit-of-work-system)](https://goreportcard.com/report/github.com/arash-mosavi/mongo-unit-of-work-system)
-
 A comprehensive Unit of Work pattern implementation for Go with MongoDB support, designed as an enterprise-ready SDK with type safety, performance optimization, and clean architecture principles following the **service → repository → base repository → unit of work → database** flow.
 
 ## Table of Contents
